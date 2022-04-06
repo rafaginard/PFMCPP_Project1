@@ -52,45 +52,45 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
+//  Noun: phone
 //  action 1:
-
+phone.ring();
 //  action 2:
-
+phone.blocked();
 //  action 3:
-
+phone.vibrate();
 //  2)
-//  Noun:
+//  Noun: boy
 //  action 1:
-
+boy.run();
 //  action 2:
-
+boy.sleep();
 //  action 3:
-
+boy.sing();
 //  3)
-//  Noun:
+//  Noun: dog
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.jumpsFence();
 //  action 3:
-
+dog.sit();
 //  4)
-//  Noun:
+//  Noun: water
 //  action 1:
-
+water.evaporates();
 //  action 2:
-
+water.flows();
 //  action 3:
-
+water.soak();
 //  5)
-//  Noun:
+//  Noun: game
 //  action 1:
-
+game.start();
 //  action 2:
-
+game.end();
 //  action 3:
-
+game.pause();
 //  6)
 //  Noun:
 //  action 1:
