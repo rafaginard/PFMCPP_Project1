@@ -92,45 +92,45 @@ game.end();
 //  action 3:
 game.pause();
 //  6)
-//  Noun:
+//  Noun: clock
 //  action 1:
-
+clock.clockwise();
 //  action 2:
-
+clock.counterClockwise();
 //  action 3:
-
+clock.alarm();
 //  7)
-//  Noun:
+//  Noun: program
 //  action 1:
-
+program.execute();
 //  action 2:
-
+program.error();
 //  action 3:
-
+program.init();
 //  8)
-//  Noun:
+//  Noun: number
 //  action 1:
-
+number.addOne();
 //  action 2:
-
+number.divideByTwo();
 //  action 3:
-
+number.square();
 //  9)
-//  Noun:
+//  Noun: doctor
 //  action 1:
-
+doctor.opertates();
 //  action 2:
-
+doctor.callNurse();
 //  action 3:
-
+doctor.prescribeMedication();
 //  10)
-//  Noun:
+//  Noun: knight
 //  action 1:
-
+knight.attack();
 //  action 2:
-
+knight.jump();
 //  action 3:
-
+knight.flip();
 
 
 #endif
