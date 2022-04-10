@@ -53,83 +53,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  1)
 //  Noun: phone
-//  action 1:
-phone.ring();
-//  action 2:
-phone.blocked();
-//  action 3:
+//  action 1: Phone receives a call
+phone.ring(); 
+//  action 2: The phone locks the screen
+phone.locksScreen();
+//  action 3: New message or call
 phone.vibrate();
 //  2)
 //  Noun: boy
-//  action 1:
+//  action 1: Boy starts to run
 boy.run();
-//  action 2:
+//  action 2: The boy falls asleep
 boy.sleep();
-//  action 3:
+//  action 3: The boy sings
 boy.sing();
 //  3)
 //  Noun: dog
-//  action 1:
+//  action 1: The dog barks
 dog.bark();
-//  action 2:
+//  action 2: Dog jumps the fence
 dog.jumpsFence();
-//  action 3:
+//  action 3: The dog sits
 dog.sit();
 //  4)
 //  Noun: water
-//  action 1:
+//  action 1: Water reaches evaporation temperature
 water.evaporates();
-//  action 2:
+//  action 2: Water is in motion
 water.flows();
-//  action 3:
+//  action 3: The amount of water is very high
 water.soak();
 //  5)
 //  Noun: game
-//  action 1:
+//  action 1: The game begins
 game.start();
-//  action 2:
+//  action 2: The game ends
 game.end();
-//  action 3:
+//  action 3: The game is paused
 game.pause();
 //  6)
 //  Noun: clock
-//  action 1:
+//  action 1: The clock goes clockwise
 clock.clockwise();
-//  action 2:
+//  action 2: Clock advances counterclockwise
 clock.counterClockwise();
-//  action 3:
-clock.alarm();
+//  action 3: The alarm is saved
+clock.setAlarm();
 //  7)
 //  Noun: program
-//  action 1:
+//  action 1: The program is executed
 program.execute();
-//  action 2:
+//  action 2: The program crashes
 program.error();
-//  action 3:
+//  action 3: The program is initialized
 program.init();
 //  8)
 //  Noun: number
-//  action 1:
+//  action 1: Add 1 to the number
 number.addOne();
-//  action 2:
+//  action 2: The number is divided in half
 number.divideByTwo();
-//  action 3:
+//  action 3: The number is squared
 number.square();
 //  9)
 //  Noun: doctor
-//  action 1:
+//  action 1: The doctor operates
 doctor.opertates();
-//  action 2:
+//  action 2: The doctor calls the nurse
 doctor.callNurse();
-//  action 3:
+//  action 3: The doctor prescribes a medication
 doctor.prescribeMedication();
 //  10)
 //  Noun: knight
-//  action 1:
+//  action 1: The knight attacks
 knight.attack();
-//  action 2:
+//  action 2: The knight jumps forward
 knight.jump();
-//  action 3:
+//  action 3: The knight does a flip
 knight.flip();
 
 
