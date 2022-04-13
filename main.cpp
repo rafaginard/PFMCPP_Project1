@@ -53,18 +53,18 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  1)
 //  Noun: phone
-//  action 1: Phone receives a call
-phone.ring(); 
-//  action 2: The phone locks the screen
-phone.locksScreen();
-//  action 3: New message or call
-phone.vibrate();
+//  action 1: Phone consumes battery.
+phone.consumesBattery(); 
+//  action 2: The phone shuts off.
+phone.shutsOff();
+//  action 3: Phone incoming call.
+phone.incomeCall();
 //  2)
 //  Noun: boy
-//  action 1: Boy starts to run
-boy.run();
-//  action 2: The boy falls asleep
-boy.sleep();
+//  action 1: The boy begins the race
+boy.beginRace();
+//  action 2: The boy brushes his teeth
+boy.brushTeeth();
 //  action 3: The boy sings
 boy.sing();
 //  3)
@@ -77,34 +77,34 @@ dog.jumpsFence();
 dog.sit();
 //  4)
 //  Noun: water
-//  action 1: Water reaches evaporation temperature
-water.evaporates();
-//  action 2: Water is in motion
+//  action 1: Water generates steam
+water.generateSteam();
+//  action 2: Water flows
 water.flows();
-//  action 3: The amount of water is very high
-water.soak();
+//  action 3: Water erodes rock
+water.erodesRock();
 //  5)
 //  Noun: game
 //  action 1: The game begins
-game.start();
+game.begins();
 //  action 2: The game ends
 game.end();
 //  action 3: The game is paused
 game.pause();
 //  6)
-//  Noun: clock
-//  action 1: The clock goes clockwise
-clock.clockwise();
-//  action 2: Clock advances counterclockwise
-clock.counterClockwise();
-//  action 3: The alarm is saved
-clock.setAlarm();
+//  Noun: Electrician
+//  action 1: Electrician fixes the clock
+electrician.fixClock();
+//  action 2: Electrician cuts power
+electrician.cutsPower();
+//  action 3: Electrician corrects place the bulb
+electrician.placeLigthBulb();
 //  7)
 //  Noun: program
 //  action 1: The program is executed
 program.execute();
-//  action 2: The program crashes
-program.error();
+//  action 2: The program fails
+program.fails();
 //  action 3: The program is initialized
 program.init();
 //  8)
@@ -118,7 +118,7 @@ number.square();
 //  9)
 //  Noun: doctor
 //  action 1: The doctor operates
-doctor.opertates();
+doctor.operates();
 //  action 2: The doctor calls the nurse
 doctor.callNurse();
 //  action 3: The doctor prescribes a medication
@@ -128,7 +128,7 @@ doctor.prescribeMedication();
 //  action 1: The knight attacks
 knight.attack();
 //  action 2: The knight jumps forward
-knight.jump();
+knight.jumpForward();
 //  action 3: The knight does a flip
 knight.flip();
 
