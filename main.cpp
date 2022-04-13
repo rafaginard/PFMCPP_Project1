@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1: Phone consumes battery.
+phone.consumesBattery(); 
+//  action 2: The phone shuts off.
+phone.shutsOff();
+//  action 3: Phone incoming call.
+phone.incomeCall();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: boy
+//  action 1: The boy begins the race
+boy.beginRace();
+//  action 2: The boy brushes his teeth
+boy.brushTeeth();
+//  action 3: The boy sings
+boy.sing();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: The dog barks
+dog.bark();
+//  action 2: Dog jumps the fence
+dog.jumpsFence();
+//  action 3: The dog sits
+dog.sit();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: water
+//  action 1: Water generates steam
+water.generateSteam();
+//  action 2: Water flows
+water.flows();
+//  action 3: Water erodes rock
+water.erodesRock();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: game
+//  action 1: The game begins
+game.begins();
+//  action 2: The game ends
+game.end();
+//  action 3: The game is paused
+game.pause();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Electrician
+//  action 1: Electrician fixes the clock
+electrician.fixClock();
+//  action 2: Electrician cuts power
+electrician.cutsPower();
+//  action 3: Electrician corrects place the bulb
+electrician.placeLigthBulb();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: program
+//  action 1: The program is executed
+program.execute();
+//  action 2: The program fails
+program.fails();
+//  action 3: The program is initialized
+program.init();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: number
+//  action 1: Add 1 to the number
+number.addOne();
+//  action 2: The number is divided in half
+number.divideByTwo();
+//  action 3: The number is squared
+number.square();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: doctor
+//  action 1: The doctor operates
+doctor.operates();
+//  action 2: The doctor calls the nurse
+doctor.callNurse();
+//  action 3: The doctor prescribes a medication
+doctor.prescribeMedication();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: knight
+//  action 1: The knight attacks
+knight.attack();
+//  action 2: The knight jumps forward
+knight.jumpForward();
+//  action 3: The knight does a flip
+knight.flip();
 
 
 #endif
